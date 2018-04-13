@@ -1,6 +1,13 @@
-# 26
+# Simpe Vuejs App
 
 > A Vue.js project
+
+* This App contains on:
+  1- Nested Components
+  2- Dynamic Component
+  3- Custom filters and primitives
+  4- Custom search filter
+  5- Post/Get Request
 
 ## Build Setup
 
