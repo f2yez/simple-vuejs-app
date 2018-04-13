@@ -8,6 +8,7 @@
   3. Custom filters and primitives
   4. Custom search filter
   5. Post/Get Request
+  6. Local/Global Register (filters and primitives)
 
 ## Build Setup
 
